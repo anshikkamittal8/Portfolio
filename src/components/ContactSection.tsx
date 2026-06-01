@@ -123,7 +123,7 @@ const ContactSection = () => {
             className="font-light uppercase tracking-widest text-[#D7E2EA]/50"
             style={{ fontSize: 'clamp(0.7rem, 1.1vw, 0.9rem)' }}
           >
-            Designed & built in Delhi
+            Designed & built by Anshikka
           </span>
         </div>
       </FadeIn>
